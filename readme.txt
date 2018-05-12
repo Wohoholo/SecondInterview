@@ -1,3 +1,3 @@
 This is my first git
 Add a branch 
-branch is master and merge
+new branch dev
